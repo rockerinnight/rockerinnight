@@ -35,7 +35,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring new technical articles about Web Development.
 
-- :zap: In my spare time, I broswer on Social Media and support new tech-heads to solve their problems.
+- :zap: In my spare time, I broswer on Social Media and support novices to solve their problems.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linhdoan3108)
 
