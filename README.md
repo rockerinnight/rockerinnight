@@ -2,19 +2,18 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUzOWIzN2Y2MzY5NDY3OGY5MmM3ZTc5NzFlNGVlNTZjODQ2N2ZiMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/x7buvnCzvYPV7Rytvy/giphy.gif" width="250"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/linhdoan3108">
+    <a href="https://www.linkedin.com/in/linhdoan3108" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     &nbsp;
-    <a href="https://www.youtube.com/channel/UCFezjIpqWZCl4natqzGxj_Q">
+    <a href="https://www.youtube.com/channel/UCFezjIpqWZCl4natqzGxj_Q" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     &nbsp;
-    <a href="https://www.facebook.com/RockerInNight">
+    <a href="https://www.facebook.com/RockerInNight" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
-  <div>&nbsp;</div>
   <img src="https://komarev.com/ghpvc/?username=rockerinnight&style=flat-square&color=blue" alt="GitHub profile view counter"/>
   <h1>
     Hello there
